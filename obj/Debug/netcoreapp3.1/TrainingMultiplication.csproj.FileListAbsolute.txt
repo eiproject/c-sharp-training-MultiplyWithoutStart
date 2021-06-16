@@ -1,0 +1,12 @@
+C:\Lab Formulatrix\TrainingMultiplication\bin\Debug\netcoreapp3.1\TrainingMultiplication.exe
+C:\Lab Formulatrix\TrainingMultiplication\bin\Debug\netcoreapp3.1\TrainingMultiplication.deps.json
+C:\Lab Formulatrix\TrainingMultiplication\bin\Debug\netcoreapp3.1\TrainingMultiplication.runtimeconfig.json
+C:\Lab Formulatrix\TrainingMultiplication\bin\Debug\netcoreapp3.1\TrainingMultiplication.runtimeconfig.dev.json
+C:\Lab Formulatrix\TrainingMultiplication\bin\Debug\netcoreapp3.1\TrainingMultiplication.dll
+C:\Lab Formulatrix\TrainingMultiplication\bin\Debug\netcoreapp3.1\TrainingMultiplication.pdb
+C:\Lab Formulatrix\TrainingMultiplication\obj\Debug\netcoreapp3.1\TrainingMultiplication.AssemblyInfoInputs.cache
+C:\Lab Formulatrix\TrainingMultiplication\obj\Debug\netcoreapp3.1\TrainingMultiplication.AssemblyInfo.cs
+C:\Lab Formulatrix\TrainingMultiplication\obj\Debug\netcoreapp3.1\TrainingMultiplication.csproj.CoreCompileInputs.cache
+C:\Lab Formulatrix\TrainingMultiplication\obj\Debug\netcoreapp3.1\TrainingMultiplication.dll
+C:\Lab Formulatrix\TrainingMultiplication\obj\Debug\netcoreapp3.1\TrainingMultiplication.pdb
+C:\Lab Formulatrix\TrainingMultiplication\obj\Debug\netcoreapp3.1\TrainingMultiplication.genruntimeconfig.cache
