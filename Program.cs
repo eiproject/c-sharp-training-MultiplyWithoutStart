@@ -15,7 +15,7 @@ namespace TrainingMultiplication
       if (a == 0 || b == 0) return 0; // when multiply by zero
       else if (b == 1) return a; // when mutiply by one
       else if ((b & 1) == 0) return AdvanceMultiplication(a + a, b >> 1); // when even number
-      else return 0;
+      else return a + AdvanceMultiplication(a + a, b >> 1);
     }
 
     static void Main(string[] args)
@@ -23,6 +23,12 @@ namespace TrainingMultiplication
       // Test something
       // Console.WriteLine(-4 & 1);
       // Console.WriteLine(-4 >> 1);
+      int x = -5;
+      while (x != -1)
+      {
+        Console.WriteLine(x);
+        x >>= 1;
+      }
 
       // user input 
       Console.WriteLine("Enter first number:");
@@ -35,11 +41,11 @@ namespace TrainingMultiplication
       Console.WriteLine("Your input: " + firstNumber + " and " + secondNumber);
       Console.WriteLine("The result is: ");
 
-      Console.WriteLine("Basic Result: ");
-      int basic_result = BasicMultiplication(int.Parse(firstNumber), int.Parse(secondNumber));
-      Console.WriteLine(basic_result);
+      //Console.WriteLine("Basic Result: ");
+      //int basic_result = BasicMultiplication(int.Parse(firstNumber), int.Parse(secondNumber));
+      //Console.WriteLine(basic_result);
 
-      Console.WriteLine("Advance Result: ");
+      //Console.WriteLine("Advance Result: ");
       int advanceResult = AdvanceMultiplication(Convert.ToInt32(firstNumber), Convert.ToInt32(secondNumber));
       Console.WriteLine(advanceResult);
     }
