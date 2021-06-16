@@ -10,3 +10,4 @@ C:\Lab Formulatrix\TrainingMultiplication\obj\Debug\netcoreapp3.1\TrainingMultip
 C:\Lab Formulatrix\TrainingMultiplication\obj\Debug\netcoreapp3.1\TrainingMultiplication.dll
 C:\Lab Formulatrix\TrainingMultiplication\obj\Debug\netcoreapp3.1\TrainingMultiplication.pdb
 C:\Lab Formulatrix\TrainingMultiplication\obj\Debug\netcoreapp3.1\TrainingMultiplication.genruntimeconfig.cache
+C:\Lab Formulatrix\TrainingMultiplication\obj\Debug\netcoreapp3.1\TrainingMultiplication.csprojAssemblyReference.cache
